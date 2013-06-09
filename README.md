@@ -1,0 +1,4 @@
+MyWiki
+======
+
+Personal gollum wiki
