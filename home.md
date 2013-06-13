@@ -3,4 +3,4 @@ Laurence R. McGlashan
 
 Fun Problems
 ------------
-[[Bit twiddling | funProblems/bit_twiddling]]
+[[Bit twiddling | funProblems/bit-twiddling]]
