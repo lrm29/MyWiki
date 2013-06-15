@@ -1,4 +1,4 @@
 Laurence R. McGlashan
 =====================
 
-[Fish Shell | fish-shell]]
+[[Fish Shell | fish-shell]]
