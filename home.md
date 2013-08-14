@@ -2,13 +2,21 @@ Laurence R. McGlashan
 =====================
 
 Development Environment
-=======================
+-----------------------
 
-##Xmonad
+###Xmonad
 
-##tmux
+###tmux
 
-##vim
+###vim
+
+Programming
+-----------
+
+###Languages
+
+
+
 
 Fun Problems
 ------------
