@@ -20,6 +20,8 @@ Programming
 
 ###Algorithms
 
+[[Binary Trees | Programming/Algorithms/Trees]]
+
 ###Fun Problems
 [[Bit twiddling | Programming/FunProblems/bit-twiddling]]
 
