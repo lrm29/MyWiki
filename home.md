@@ -21,5 +21,5 @@ Programming
 ###Algorithms
 
 ###Fun Problems
-[[Bit twiddling | funProblems/bit-twiddling]]
+[[Bit twiddling | Programming/FunProblems/bit-twiddling]]
 
