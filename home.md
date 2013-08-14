@@ -15,9 +15,11 @@ Programming
 
 ###Languages
 
+[[C++11 | Programming/Languages/C++11]]  
+[[Java | Programming/Languages/Java]]
 
+###Algorithms
 
-
-Fun Problems
-------------
+###Fun Problems
 [[Bit twiddling | funProblems/bit-twiddling]]
+
