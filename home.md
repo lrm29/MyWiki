@@ -23,5 +23,5 @@ Programming
 [[Binary Trees | Programming/Algorithms/trees]]
 
 ###Fun Problems
-[[Bit twiddling | Programming/FunProblems/bit-twiddling]]
+[[Bit twiddling | bit-twiddling]]
 
