@@ -15,12 +15,12 @@ Programming
 
 ###Languages
 
-[[C++11 | /Programming/Languages/c11]]  
-[[Java | Programming/Languages/java]]
+[[C++11 | c11]]  
+[[Java | java]]
 
 ###Algorithms
 
-[[Binary Trees | Programming/Algorithms/trees]]
+[[Binary Trees | trees]]
 
 ###Fun Problems
 [[Bit twiddling | bit-twiddling]]
