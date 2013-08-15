@@ -15,7 +15,7 @@ Programming
 
 ###Languages
 
-[[C++11 | Programming/Languages/c11]]  
+[[C++11 | /Programming/Languages/c11]]  
 [[Java | Programming/Languages/java]]
 
 ###Algorithms
